@@ -92,7 +92,7 @@ onMounted(() => {
 
 				</div>
 
-				<input type="submit" value="Add todo" />
+				<input type="submit" value="Ajouter cette tache à la liste" />
 			</form>
 		</section>
 
